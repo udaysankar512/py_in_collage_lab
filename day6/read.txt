@@ -1,0 +1,15 @@
+ASSIGNMENT 6 :-                                                       DATE : 13 /08 /2026
+
+
+QUACTIONS :
+
+
+1. Write a recursive python function to flatten a deeply nested tuple of tuples into a single flat tuple containing all the individual values .
+
+2. write a python program to modify a tuple by converting it to a list , changing a specific item ,and converting it back to a tuple.
+
+3. write a python program to find all elements that are common to two different tuple .
+
+4. write a python program to sort a tuple of based on the second item in each nested tuple .
+
+5. write a python program to swap the values of two variables using tuple unpacking using a lemporary third variable.
