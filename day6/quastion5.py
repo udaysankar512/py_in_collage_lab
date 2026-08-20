@@ -7,7 +7,7 @@ print("Before swapping:")
 print("a =", a)
 print("b =", b)
 
-temp = (a, b)
+temp = (b,a)
 
 a, b = temp
 
