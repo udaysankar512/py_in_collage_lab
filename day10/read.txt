@@ -1,0 +1,9 @@
+ASSIGNMENT 10 :-                                                                                  DATE :09/09/2026
+
+Q.1.  write a program to genrate two list using list comprehension one list should contain first 20 odd numbers and another contain first 20 even numbers .
+
+Q.2. suppose a list contains 5 strings . write a program to convert all three strings to uppercase .
+
+Q.3. write a program that convert list of temperature in Fahenheit degrees to equevalent Celsius degrees using list comprehension.
+
+Q.4. write a program that converts words present in list into uppercase and stores in a set.
