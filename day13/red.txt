@@ -1,0 +1,11 @@
+date 08/10/2026
+
+Q.1. write a python function to calculate student Grade calculater_grase(marks) that acpts marks and ratuen the grade according to :
+
+90 - 100 : A 
+80 - 89 : B
+70 - 79 : C 
+60 - 69 : D 
+Below 60 :F 
+
+Q.2. write a python function that acpts a list and removes all negative numbers from tha list
