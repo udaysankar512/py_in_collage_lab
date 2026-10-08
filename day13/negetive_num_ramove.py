@@ -2,7 +2,6 @@
 
 
 def remove_negative_numbers(numbers):
-    """Return a new list without negative numbers."""
     return [num for num in numbers if num >= 0]
 
 
